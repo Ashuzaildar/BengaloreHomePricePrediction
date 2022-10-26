@@ -9,7 +9,11 @@ Sklearn for model building
 Jupyter notebook, visual studio code and pycharm as IDE
 Python flask for http server
 HTML/CSS/Javascript for UI
+
+
 Deploy this app to cloud (AWS EC2)
+
+
 Create EC2 instance using amazon console, also in security group add a rule to allow HTTP incoming traffic
 Now connect to your instance using a command like this,
 ssh -i "C:\Users\Viral\.ssh\Banglore.pem" ubuntu@ec2-3-133-88-210.us-east-2.compute.amazonaws.com
